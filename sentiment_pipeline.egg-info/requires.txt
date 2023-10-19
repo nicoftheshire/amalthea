@@ -1,0 +1,15 @@
+dagster
+dagster-cloud
+dagster-webserver
+newsapi
+openai
+textblob
+pyarrow
+pandas
+numpy
+transformers
+torch
+
+[dev]
+dagster-webserver
+pytest

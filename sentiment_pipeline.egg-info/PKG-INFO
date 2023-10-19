@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: sentiment-pipeline
+Version: 0.0.0
+Requires-Dist: dagster
+Requires-Dist: dagster-cloud
+Requires-Dist: dagster-webserver
+Requires-Dist: newsapi
+Requires-Dist: openai
+Requires-Dist: textblob
+Requires-Dist: pyarrow
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: transformers
+Requires-Dist: torch
+Provides-Extra: dev
+Requires-Dist: dagster-webserver; extra == "dev"
+Requires-Dist: pytest; extra == "dev"

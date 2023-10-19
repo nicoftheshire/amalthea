@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+sentiment_pipeline.egg-info/PKG-INFO
+sentiment_pipeline.egg-info/SOURCES.txt
+sentiment_pipeline.egg-info/dependency_links.txt
+sentiment_pipeline.egg-info/requires.txt
+sentiment_pipeline.egg-info/top_level.txt
